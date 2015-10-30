@@ -40,7 +40,7 @@
   "_shasum": "4580567462859d1154a895e36a810f5a2e873e47",
   "_from": "comparedate@*",
   "_npmVersion": "2.13.3",
-  "_nodeVersion": "3.0.0",
+  "_nodeVersion": "4.0.0",
   "_npmUser": {
     "name": "mwiesmueller",
     "email": "martin.wiesmueller@werbas-ag.com"
@@ -53,6 +53,10 @@
     {
       "name": "mwiesmueller",
       "email": "martin.wiesmueller@werbas-ag.com"
+    },
+    {
+      "name": "Joe Herwig",
+      "email": "joachim.herwig@werbas-ag.com"
     }
   ],
   "directories": {},

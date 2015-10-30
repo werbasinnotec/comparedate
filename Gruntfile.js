@@ -7,11 +7,11 @@ module.exports = tourism({
     server: [ '**/*.js', '!node_modules/**/*.js', '!coverage/**/*.js', '!use.js' ],
     options: {
       server: {
-        language: 'es5'
+        language: 'es6'
       }
     }
   },
   test: {
-    server: [ 'test/**/*.js' ]
+    server: [ 'test/**/*.js', 'test/*.js'  ]
   }
 });
