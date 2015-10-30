@@ -1,0 +1,61 @@
+{
+  "name": "comparedate",
+  "version": "0.0.3",
+  "description": "easy NPM Modul to compare datestrings",
+  "contributors": [
+    {
+      "name": "Joe Herwig",
+      "email": "joachim.herwig@werbas-ag.com"
+    },
+    {
+      "name": "Martin Wiesmüller",
+      "email": "martin.wiesmueller@werbas-ag.com"
+    }
+  ],
+  "main": "lib/app.js",
+  "dependencies": {
+    "defekt": "0.1.0",
+    "moment": "2.10.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/werbasinnotec/comparedate.git"
+  },
+  "keywords": [
+    "comparedate"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "assertthat": "0.6.0",
+    "grunt": "0.4.5",
+    "tourism": "0.21.0"
+  },
+  "gitHead": "fea1e7e86c4fa8b4e7e347634672db5aa5074d63",
+  "bugs": {
+    "url": "https://github.com/werbasinnotec/comparedate/issues"
+  },
+  "homepage": "https://github.com/werbasinnotec/comparedate#readme",
+  "_id": "comparedate@0.0.2",
+  "scripts": {},
+  "_shasum": "4580567462859d1154a895e36a810f5a2e873e47",
+  "_from": "comparedate@*",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "3.0.0",
+  "_npmUser": {
+    "name": "mwiesmueller",
+    "email": "martin.wiesmueller@werbas-ag.com"
+  },
+  "dist": {
+    "shasum": "4580567462859d1154a895e36a810f5a2e873e47",
+    "tarball": "http://registry.npmjs.org/comparedate/-/comparedate-0.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mwiesmueller",
+      "email": "martin.wiesmueller@werbas-ag.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/comparedate/-/comparedate-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
