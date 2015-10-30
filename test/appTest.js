@@ -1,11 +1,11 @@
 'use strict';
 
-var assert = require('assertthat');
-var comparedate = require('../lib/app');
-var date = new Date();
-var dd = date.getDate();
-var mm = date.getMonth() + 1;
-var yy = date.getFullYear();
+const assert = require('assertthat');
+const comparedate = require('../lib/app');
+const date = new Date();
+const dd = date.getDate();
+const mm = date.getMonth() + 1;
+const yy = date.getFullYear();
 
 if (dd < 10) {
   dd = '0' + dd;

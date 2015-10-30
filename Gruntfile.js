@@ -1,6 +1,6 @@
 'use strict';
 
-var tourism = require('tourism');
+const tourism = require('tourism');
 
 module.exports = tourism({
   analyse: {
@@ -12,6 +12,6 @@ module.exports = tourism({
     }
   },
   test: {
-    server: [ 'test/**/*.js', 'test/*.js'  ]
+    server: [ 'test/**/*.js', 'test/*.js' ]
   }
 });
